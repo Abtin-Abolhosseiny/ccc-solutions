@@ -5,7 +5,7 @@ My solutions to Canadian Computing Competition (CCC) problems, with explanations
 Official problems and past papers: https://cemc.uwaterloo.ca/contests/ccc — problem statements belong to CEMC and are linked, not copied here. All code and explanations in this repo are my own work.
 
 ## My result
-Canadian Computing Competition participant — 88% (division/year/score details to be added from certificate).
+**CCC Junior Division 2026 — Certificate of Distinction** (top 25% of contestants), Centre for Education in Mathematics and Computing (CEMC), University of Waterloo.
 
 ## Structure
 ```
